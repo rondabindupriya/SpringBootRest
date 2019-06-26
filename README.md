@@ -1,4 +1,4 @@
-# SpringBootRest
+# SpringBootRestAPI
 This project deals with the sample API which gives the discount for the customers based on the designation
 
 Based on the requirement that employee has to get 30%,Affiliate has to get 10%,Customer with 2yrs has to get 5% and the rest of the people has to get 5%discount on every purchase of 100.
